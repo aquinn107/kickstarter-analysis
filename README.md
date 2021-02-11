@@ -15,7 +15,7 @@ Theater campaigns are least successful in the Fall & Winter months. This could b
 ### Analysis of Outcomes Based on Goals
 We can determine based on the data that the average pledged amount of successful productions was roughly $5,600 and exceeded the average goal of $5,050. A successful goal for Louise's kickstarter shouldn't exceed $5,000. As the average donation of successful US Kickstarter Plays is roughly $90, I would reccomend in her search for donations to have preset domination amounts in $50 increments.
 
-![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 While analyzing the data, I determined that there are some limitations that were encountered with the dataset were based on lack of demographic and marketing data. While we are able to determine the best timeframe for Louise's campaign, we are unable to determine exactly what demographic the successful productions were geared toward. Alongside this missing data, is the lack of marketing information. We are unsure of what marketing attempts were made, if any, for the more successful campaigns. If able to obtain this information, we can add additional summaries & charts to determine:
 *Target demographic: Who is the target audience? Is it a family production, or geared toward an older audience?
