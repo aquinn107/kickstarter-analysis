@@ -12,12 +12,12 @@ Performing analysis on Kickstarter data to uncover trends.
    Theater campaigns are most successful in early summer months; May and June having the highest success rate. This could be due to higher likliness of summer travel in July/August due to the holidays. This time frame can also be more feasible for families to attend with the school year ending, and excitment at a high.
    Theater campaigns are least successful in the Fall & Winter months. This could be caused due to the holiday season, giving potential theater goers a less than likely chance of visiting the theater unless it is a holiday themed campaign which has it's own set of limitations.
 
-![Theater_Outcomes_vs_Launch](Resources/Theater Outcomes vs Launch.png)
+![Theater_Outcomes_vs_Launch](https://raw.githubusercontent.com/aquinn107/kickstarter-analysis/main/Resources/Theater%20Outcomes%20vs%20Launch.png)
 
 ### Analysis of Outcomes Based on Goals
    We can determine based on the data that the average pledged amount of successful productions was roughly $5,600 and exceeded the average goal of $5,050. A successful goal for Louise's kickstarter shouldn't exceed $5,000. As the average donation of successful US Kickstarter Plays is roughly $90, I would reccomend in her search for donations to have preset domination amounts in $50 increments.
 
-![Outcomes_vs_Goals](Resources/Outcomes vs Goals.png)
+![Outcomes_vs_Goals](https://raw.githubusercontent.com/aquinn107/kickstarter-analysis/main/Resources/Outcomes%20vs%20Goals.png)
 
 ### Challenges and Difficulties Encountered
    While analyzing the data, I determined that there are some limitations that were encountered with the dataset were based on lack of demographic and marketing data. While we are able to determine the best timeframe for Louise's campaign, we are unable to determine exactly what demographic the successful productions were geared toward. Alongside this missing data, is the lack of marketing information. We are unsure of what marketing attempts were made, if any, for the more successful campaigns. 
