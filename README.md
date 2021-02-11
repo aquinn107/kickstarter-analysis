@@ -15,7 +15,7 @@ Performing analysis on Kickstarter data to uncover trends.
 ### Analysis of Outcomes Based on Goals
    We can determine based on the data that the average pledged amount of successful productions was roughly $5,600 and exceeded the average goal of $5,050. A successful goal for Louise's kickstarter shouldn't exceed $5,000. As the average donation of successful US Kickstarter Plays is roughly $90, I would reccomend in her search for donations to have preset domination amounts in $50 increments.
 
-! [Outcomes_vs_Goals](Resources/Outcomes vs Goals.png)
+![Outcomes_vs_Goals](Resources/Outcomes vs Goals.png)
 
 ### Challenges and Difficulties Encountered
    While analyzing the data, I determined that there are some limitations that were encountered with the dataset were based on lack of demographic and marketing data. While we are able to determine the best timeframe for Louise's campaign, we are unable to determine exactly what demographic the successful productions were geared toward. Alongside this missing data, is the lack of marketing information. We are unsure of what marketing attempts were made, if any, for the more successful campaigns. 
